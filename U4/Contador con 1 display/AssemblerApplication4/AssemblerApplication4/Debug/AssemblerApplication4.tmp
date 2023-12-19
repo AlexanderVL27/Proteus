@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8535"</DEVICE>
+ <WORKING_DIR>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/hdd\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\hdd\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/hdd\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\Debug\AssemblerApplication4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication4.map</FILE>
+  <FILE>AssemblerApplication4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>11</LINE></inicio>
+  <I_Decen><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>24</LINE></I_Decen>
+  <I_Unid><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>26</LINE></I_Unid>
+  <Contador><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>28</LINE></Contador>
+  <delay><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>52</LINE></delay>
+  <unid><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>47</LINE></unid>
+  <decen><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>45</LINE></decen>
+  <repite><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>56</LINE></repite>
+  <leer><FILE>C:\Users\villa_xaz9a7o\Music\U4\Contador con 1 display\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>64</LINE></leer>
+ </LABELS>
+</ASSEMBLER_INFO>

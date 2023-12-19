@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8535"</DEVICE>
+ <WORKING_DIR>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>E:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\Debug\Contador2Display48.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Contador2Display48.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Contador2Display48.map</FILE>
+  <FILE>Contador2Display48.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>12</LINE></inicio>
+  <I_Inicia><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>24</LINE></I_Inicia>
+  <I_Umil><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>26</LINE></I_Umil>
+  <I_Centen><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>28</LINE></I_Centen>
+  <I_Decen><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>30</LINE></I_Decen>
+  <I_Unid><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>32</LINE></I_Unid>
+  <Contador><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>34</LINE></Contador>
+  <delay><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>120</LINE></delay>
+  <unid9><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>93</LINE></unid9>
+  <unid><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>116</LINE></unid>
+  <continuar1><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>68</LINE></continuar1>
+  <decen9><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>98</LINE></decen9>
+  <decen><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>114</LINE></decen>
+  <continuar2><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>78</LINE></continuar2>
+  <centen9><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>103</LINE></centen9>
+  <centen><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>112</LINE></centen>
+  <continuar3><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>86</LINE></continuar3>
+  <umil><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>110</LINE></umil>
+  <inicia><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>108</LINE></inicia>
+  <repite><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>124</LINE></repite>
+  <leer><FILE>C:\Proyectos\Unidad 4\2Display 48\Contador2Display48\Contador2Display48\main.asm</FILE><LINE>132</LINE></leer>
+ </LABELS>
+</ASSEMBLER_INFO>
